@@ -1,0 +1,4 @@
+name: PlaxerHubConnetorBungeecord
+version: '${project.version}'
+main: org.plaxerstudios.it.plaxerhubconnetorbungeecord.PlaxerHubConnetorBungeecord
+author: Plaxer's Studios
